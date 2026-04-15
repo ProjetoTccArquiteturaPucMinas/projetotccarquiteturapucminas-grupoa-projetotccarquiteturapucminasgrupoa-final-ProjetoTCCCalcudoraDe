@@ -1,5 +1,7 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
+## Seu Nome: 
+
 ## Visão Geral do Projeto
 
 O **Marketplace Discount Calculator** é uma aplicação web simples desenvolvida em **Java com Spring Boot**, cujo objetivo é simular um pequeno marketplace de acessórios para celulares e calcular descontos aplicados a um carrinho de compras.
